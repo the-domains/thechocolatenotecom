@@ -1,0 +1,14 @@
+layout_spectrum: 0.8455751861911267
+typography_spectrum: 0.5971526762004942
+color:
+  brandStrength: 0.6208732959348708
+  lightness: 0.35785475466400385
+  saturation: 0.19046520604752004
+  rhythmicContrast: 0.09595579281449318
+  brandColors:
+    - '#08090B'
+    - '#FEFEFE'
+    - '#434750'
+    - '#C3C4C0'
+    - '#98784F'
+name: thechocolatenote.com
