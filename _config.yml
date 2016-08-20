@@ -1,4 +1,3 @@
-layout_spectrum: 0.8455751861911267
 typography_spectrum: 0.5971526762004942
 color:
   brandStrength: 0.6208732959348708
@@ -6,9 +5,11 @@ color:
   saturation: 0.19046520604752004
   rhythmicContrast: 0.09595579281449318
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#08090B'
+    - '#FEFEFE'
+    - '#434750'
+    - '#C3C4C0'
+    - '#98784F'
+layout_spectrum: 0.8455751861911267
 name: thechocolatenote.com
+title: Artisan Chocolate Lab
